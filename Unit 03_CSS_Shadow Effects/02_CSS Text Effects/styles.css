@@ -1,0 +1,17 @@
+#text1{
+    white-space: nowrap; 
+    width: 100px; 
+    border: 1px solid #000000;
+    overflow: hidden;
+    text-overflow: clip;
+
+}
+
+#text2{
+    white-space: nowrap; 
+  width: 100px; 
+  border: 1px solid #000000;
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+}

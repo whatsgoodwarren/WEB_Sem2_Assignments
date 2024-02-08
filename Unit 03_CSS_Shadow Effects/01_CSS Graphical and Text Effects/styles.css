@@ -1,0 +1,27 @@
+h1 {
+    text-shadow: 2px 2px 4px rgb(38, 0, 255);
+    size: 50px;
+    color: rgb(255, 0, 0);
+  }
+
+h2{
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}  
+
+#poop{
+    width: 150px;
+  height: 100px;
+  padding: 15px;
+  background-color: black;
+  box-shadow: 10px 10px;
+  color: white;
+}
+
+#n{
+    width: 100px;
+  height: 20px;
+  padding: 10px;
+  background-color: rgb(141, 80, 255);
+  box-shadow: 10px 10px;
+  color: black;
+}
