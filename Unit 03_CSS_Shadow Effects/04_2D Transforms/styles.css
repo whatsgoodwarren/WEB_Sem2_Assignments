@@ -1,0 +1,13 @@
+div{
+    width: 300px;
+  height: 100px;
+  background-color: yellow;
+  border: 1px solid black;
+
+}
+#was{
+    transform: rotate(90deg);
+}
+#the{
+    transform: scaleX(2);
+}
