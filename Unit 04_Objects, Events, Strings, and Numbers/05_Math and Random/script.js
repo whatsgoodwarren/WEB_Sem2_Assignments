@@ -12,7 +12,7 @@ function takeAbsoulteValue() {
     
 
     let absoluteValue = Math.abs(number);
-    document.getElementById("result2").innerHTML = absoluteValue;
+    document.getElementById("result 2").innerHTML = absoluteValue;
 
 }
 
