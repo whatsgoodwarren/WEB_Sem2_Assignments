@@ -1,0 +1,21 @@
+div {
+    
+    animation-name: example;
+    animation-duration: 4s;
+    width: 100px;
+    height: 100px;
+    background: blueviolet;
+    transition: width 9s, height 9s;
+  }
+
+  div:hover {
+    width: 200px;
+    height: 200px;}
+  
+  @keyframes example {
+    from {background-color: red;}
+    to {background-color: yellow;}
+    from{background-color: blue;}
+    to {background-color: green;}
+  
+  }
