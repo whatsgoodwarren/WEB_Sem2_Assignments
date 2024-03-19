@@ -7,6 +7,18 @@ for(let x of horses){
 }
 
 const horse = {
-firstName: Sally
+"firstName": "Sally",
+skinColor: "Brown",
+age: 26,
+eyeColor: "skyblue"
 
 };
+
+let txt = " ";
+for (let x in horse) {
+    txt += horse[x] + " ";
+}
+
+document.getElementById("demo2").innerHTML = horses;      
+
+
